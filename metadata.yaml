@@ -1,5 +1,8 @@
 _repo: The-Frogs-of-Mars_66287
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66287-h/images/cover.jpg
 creator:
   author:
     agent_name: Aycock, Roger D.
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25679
     wikipedia: https://en.wikipedia.org/wiki/Roger_Dee
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66287#The-Frogs-of-Mars
 gutenberg_issued: '2021-09-13'
 identifiers:
   gutenberg: '66287'
